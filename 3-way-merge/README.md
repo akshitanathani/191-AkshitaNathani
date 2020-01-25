@@ -16,6 +16,13 @@ You again live in your own branch, this time we will be doing a bit of juggling 
 6. Create a file README.md with information about this repository
 7. Add the README.md file to staging area and make the commit
 8. What is the output of `git log --oneline --graph --all`?
+
+* 9b50570 (HEAD -> master) added readme file to exercise folder
+| * 735948e (greeting) edited greetings file
+|/  
+* 857711e Add content to greeting.txt
+* 96a11d0 Add file greeting.txt
+
 9. Diff the branches
 10. Merge the greeting branch into master
 
